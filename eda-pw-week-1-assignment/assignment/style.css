@@ -1,0 +1,43 @@
+body {
+  background-color: #FFD700
+  text-color: white;
+}
+
+  h1 {
+    text-align: center;
+    color: #800080;
+}
+
+head {
+  color: black;
+}
+
+footer {
+  color: white;
+}
+
+p {
+  color: white;
+  text:italic;
+}
+
+img {
+  border-radius: 15px;
+}
+
+ul {
+  font-family:fantasy;
+}
+
+
+/* Give your page a fun background color */
+
+/* Make the header and footer a different color from the background */
+
+/* Align the h1 containing your name in the center of the header*/
+
+/* Make your p tag a different color and italic */
+
+/* Put a border around your image */
+
+/* Change the font-family of your list */
