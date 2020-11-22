@@ -1,15 +1,21 @@
 body {
-  background-color: #FFD700;
+  background-color: black;
   text-color: white;
 }
 
-  h1 {
+header {
+  background-color: red;
+  text: italic;
+  color: black;
+}
+
+h1 {
     text-align: center;
     color: #800080;
 }
 
 p {
-  color: white;
+  color: black;
   text:italic;
 }
 
@@ -20,16 +26,15 @@ img {
 
 ul {
   font-family:fantasy;
+  color: white
 }
-<style>
-.footer {
-  position: fixed;
-  background-color: red;
-  text: italic;
-}
-</style>
 
-<p>"Everything passes. Nobody gets anything for keeps. And that's how we've got to live." - Haruki Murakami</p>
+footer p {
+  background-color: red;
+  color: lime;
+  font-style: italic;
+
+}
 
 /* Give your page a fun background color */
 
